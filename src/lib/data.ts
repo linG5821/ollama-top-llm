@@ -1,6 +1,8 @@
 import type { ModelRecord, ModelsData, ModelsDataState } from '../types/model'
 
-const DEFAULT_MODELS_PATH = '/data/models.json'
+const basePath = import.meta.env.BASE_URL
+const normalizedBasePath = basePath.endsWith('/') ? basePath : `${basePath}/`
+const DEFAULT_MODELS_PATH = `${normalizedBasePath}data/models.json`
 
 function toError(error: unknown): Error {
   if (error instanceof Error) {
