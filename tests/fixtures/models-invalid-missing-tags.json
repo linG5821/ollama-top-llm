@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-03-19T00:00:00.000Z",
+  "source": "fixture",
+  "models": [
+    {
+      "name": "example-model-without-tags",
+      "pullsRaw": "1K",
+      "pullsValue": 1000
+    }
+  ]
+}

@@ -1,0 +1,1014 @@
+{
+  "generatedAt": "2026-03-20T02:46:48.917Z",
+  "source": "https://ollama.com/search",
+  "models": [
+    {
+      "name": "llama3.1",
+      "tags": [
+        "tools",
+        "8b",
+        "70b",
+        "405b"
+      ],
+      "pullsRaw": "111.5M",
+      "pullsValue": 111500000
+    },
+    {
+      "name": "deepseek-r1",
+      "tags": [
+        "tools",
+        "thinking",
+        "1.5b",
+        "7b",
+        "8b",
+        "14b",
+        "32b",
+        "70b",
+        "671b"
+      ],
+      "pullsRaw": "80.3M",
+      "pullsValue": 80300000
+    },
+    {
+      "name": "llama3.2",
+      "tags": [
+        "tools",
+        "1b",
+        "3b"
+      ],
+      "pullsRaw": "61.4M",
+      "pullsValue": 61400000
+    },
+    {
+      "name": "nomic-embed-text",
+      "tags": [
+        "embedding"
+      ],
+      "pullsRaw": "58.8M",
+      "pullsValue": 58800000
+    },
+    {
+      "name": "gemma3",
+      "tags": [
+        "vision",
+        "270m",
+        "1b",
+        "4b",
+        "12b",
+        "27b",
+        "cloud"
+      ],
+      "pullsRaw": "33.8M",
+      "pullsValue": 33800000
+    },
+    {
+      "name": "mistral",
+      "tags": [
+        "tools",
+        "7b"
+      ],
+      "pullsRaw": "26.7M",
+      "pullsValue": 26700000
+    },
+    {
+      "name": "qwen2.5",
+      "tags": [
+        "tools",
+        "0.5b",
+        "1.5b",
+        "3b",
+        "7b",
+        "14b",
+        "32b",
+        "72b"
+      ],
+      "pullsRaw": "24.8M",
+      "pullsValue": 24800000
+    },
+    {
+      "name": "qwen3",
+      "tags": [
+        "tools",
+        "thinking",
+        "0.6b",
+        "1.7b",
+        "4b",
+        "8b",
+        "14b",
+        "30b",
+        "32b",
+        "235b"
+      ],
+      "pullsRaw": "24.4M",
+      "pullsValue": 24400000
+    },
+    {
+      "name": "llama3",
+      "tags": [
+        "8b",
+        "70b"
+      ],
+      "pullsRaw": "19.6M",
+      "pullsValue": 19600000
+    },
+    {
+      "name": "gemma2",
+      "tags": [
+        "2b",
+        "9b",
+        "27b"
+      ],
+      "pullsRaw": "18.2M",
+      "pullsValue": 18200000
+    },
+    {
+      "name": "phi3",
+      "tags": [
+        "3.8b",
+        "14b"
+      ],
+      "pullsRaw": "16.5M",
+      "pullsValue": 16500000
+    },
+    {
+      "name": "llava",
+      "tags": [
+        "vision",
+        "7b",
+        "13b",
+        "34b"
+      ],
+      "pullsRaw": "13.2M",
+      "pullsValue": 13200000
+    },
+    {
+      "name": "qwen2.5-coder",
+      "tags": [
+        "tools",
+        "0.5b",
+        "1.5b",
+        "3b",
+        "7b",
+        "14b",
+        "32b"
+      ],
+      "pullsRaw": "12.3M",
+      "pullsValue": 12300000
+    },
+    {
+      "name": "mxbai-embed-large",
+      "tags": [
+        "embedding",
+        "335m"
+      ],
+      "pullsRaw": "8.4M",
+      "pullsValue": 8400000
+    },
+    {
+      "name": "gpt-oss",
+      "tags": [
+        "tools",
+        "thinking",
+        "20b",
+        "120b",
+        "cloud"
+      ],
+      "pullsRaw": "7.9M",
+      "pullsValue": 7900000
+    },
+    {
+      "name": "phi4",
+      "tags": [
+        "14b"
+      ],
+      "pullsRaw": "7.3M",
+      "pullsValue": 7300000
+    },
+    {
+      "name": "gemma",
+      "tags": [
+        "2b",
+        "7b"
+      ],
+      "pullsRaw": "6.2M",
+      "pullsValue": 6200000
+    },
+    {
+      "name": "qwen",
+      "tags": [
+        "0.5b",
+        "1.8b",
+        "4b",
+        "7b",
+        "14b",
+        "32b",
+        "72b",
+        "110b"
+      ],
+      "pullsRaw": "5.9M",
+      "pullsValue": 5900000
+    },
+    {
+      "name": "llama2",
+      "tags": [
+        "7b",
+        "13b",
+        "70b"
+      ],
+      "pullsRaw": "5.9M",
+      "pullsValue": 5900000
+    },
+    {
+      "name": "qwen2",
+      "tags": [
+        "tools",
+        "0.5b",
+        "1.5b",
+        "7b",
+        "72b"
+      ],
+      "pullsRaw": "5.2M",
+      "pullsValue": 5200000
+    },
+    {
+      "name": "minicpm-v",
+      "tags": [
+        "vision",
+        "8b"
+      ],
+      "pullsRaw": "4.7M",
+      "pullsValue": 4700000
+    },
+    {
+      "name": "codellama",
+      "tags": [
+        "7b",
+        "13b",
+        "34b",
+        "70b"
+      ],
+      "pullsRaw": "4.6M",
+      "pullsValue": 4600000
+    },
+    {
+      "name": "llama3.2-vision",
+      "tags": [
+        "vision",
+        "11b",
+        "90b"
+      ],
+      "pullsRaw": "4M",
+      "pullsValue": 4000000
+    },
+    {
+      "name": "tinyllama",
+      "tags": [
+        "1.1b"
+      ],
+      "pullsRaw": "4M",
+      "pullsValue": 4000000
+    },
+    {
+      "name": "qwen3-coder",
+      "tags": [
+        "tools",
+        "30b",
+        "480b",
+        "cloud"
+      ],
+      "pullsRaw": "3.7M",
+      "pullsValue": 3700000
+    },
+    {
+      "name": "deepseek-v3",
+      "tags": [
+        "671b"
+      ],
+      "pullsRaw": "3.7M",
+      "pullsValue": 3700000
+    },
+    {
+      "name": "dolphin3",
+      "tags": [
+        "8b"
+      ],
+      "pullsRaw": "3.7M",
+      "pullsValue": 3700000
+    },
+    {
+      "name": "bge-m3",
+      "tags": [
+        "embedding",
+        "567m"
+      ],
+      "pullsRaw": "3.6M",
+      "pullsValue": 3600000
+    },
+    {
+      "name": "mistral-nemo",
+      "tags": [
+        "tools",
+        "12b"
+      ],
+      "pullsRaw": "3.6M",
+      "pullsValue": 3600000
+    },
+    {
+      "name": "olmo2",
+      "tags": [
+        "7b",
+        "13b"
+      ],
+      "pullsRaw": "3.5M",
+      "pullsValue": 3500000
+    },
+    {
+      "name": "llama3.3",
+      "tags": [
+        "tools",
+        "70b"
+      ],
+      "pullsRaw": "3.5M",
+      "pullsValue": 3500000
+    },
+    {
+      "name": "deepseek-coder",
+      "tags": [
+        "1.3b",
+        "6.7b",
+        "33b"
+      ],
+      "pullsRaw": "3.4M",
+      "pullsValue": 3400000
+    },
+    {
+      "name": "smollm2",
+      "tags": [
+        "tools",
+        "135m",
+        "360m",
+        "1.7b"
+      ],
+      "pullsRaw": "2.8M",
+      "pullsValue": 2800000
+    },
+    {
+      "name": "all-minilm",
+      "tags": [
+        "embedding",
+        "22m",
+        "33m"
+      ],
+      "pullsRaw": "2.7M",
+      "pullsValue": 2700000
+    },
+    {
+      "name": "mistral-small",
+      "tags": [
+        "tools",
+        "22b",
+        "24b"
+      ],
+      "pullsRaw": "2.6M",
+      "pullsValue": 2600000
+    },
+    {
+      "name": "qwen3.5",
+      "tags": [
+        "vision",
+        "tools",
+        "thinking",
+        "0.8b",
+        "2b",
+        "4b",
+        "9b",
+        "27b",
+        "35b",
+        "122b",
+        "cloud"
+      ],
+      "pullsRaw": "2.5M",
+      "pullsValue": 2500000
+    },
+    {
+      "name": "codegemma",
+      "tags": [
+        "2b",
+        "7b"
+      ],
+      "pullsRaw": "2.5M",
+      "pullsValue": 2500000
+    },
+    {
+      "name": "granite3.1-moe",
+      "tags": [
+        "tools",
+        "1b",
+        "3b"
+      ],
+      "pullsRaw": "2.4M",
+      "pullsValue": 2400000
+    },
+    {
+      "name": "snowflake-arctic-embed",
+      "tags": [
+        "embedding",
+        "22m",
+        "33m",
+        "110m",
+        "137m",
+        "335m"
+      ],
+      "pullsRaw": "2.4M",
+      "pullsValue": 2400000
+    },
+    {
+      "name": "qwen3-vl",
+      "tags": [
+        "vision",
+        "tools",
+        "thinking",
+        "2b",
+        "4b",
+        "8b",
+        "30b",
+        "32b",
+        "235b",
+        "cloud"
+      ],
+      "pullsRaw": "2.3M",
+      "pullsValue": 2300000
+    },
+    {
+      "name": "falcon3",
+      "tags": [
+        "1b",
+        "3b",
+        "7b",
+        "10b"
+      ],
+      "pullsRaw": "2.3M",
+      "pullsValue": 2300000
+    },
+    {
+      "name": "starcoder2",
+      "tags": [
+        "3b",
+        "7b",
+        "15b"
+      ],
+      "pullsRaw": "2.3M",
+      "pullsValue": 2300000
+    },
+    {
+      "name": "orca-mini",
+      "tags": [
+        "3b",
+        "7b",
+        "13b",
+        "70b"
+      ],
+      "pullsRaw": "2.3M",
+      "pullsValue": 2300000
+    },
+    {
+      "name": "llava-llama3",
+      "tags": [
+        "vision",
+        "8b"
+      ],
+      "pullsRaw": "2.2M",
+      "pullsValue": 2200000
+    },
+    {
+      "name": "qwq",
+      "tags": [
+        "tools",
+        "32b"
+      ],
+      "pullsRaw": "2.1M",
+      "pullsValue": 2100000
+    },
+    {
+      "name": "mixtral",
+      "tags": [
+        "tools",
+        "8x7b",
+        "8x22b"
+      ],
+      "pullsRaw": "2.1M",
+      "pullsValue": 2100000
+    },
+    {
+      "name": "llama2-uncensored",
+      "tags": [
+        "7b",
+        "70b"
+      ],
+      "pullsRaw": "2M",
+      "pullsValue": 2000000
+    },
+    {
+      "name": "deepseek-coder-v2",
+      "tags": [
+        "16b",
+        "236b"
+      ],
+      "pullsRaw": "1.9M",
+      "pullsValue": 1900000
+    },
+    {
+      "name": "cogito",
+      "tags": [
+        "tools",
+        "3b",
+        "8b",
+        "14b",
+        "32b",
+        "70b"
+      ],
+      "pullsRaw": "1.6M",
+      "pullsValue": 1600000
+    },
+    {
+      "name": "mistral-small3.2",
+      "tags": [
+        "vision",
+        "tools",
+        "24b"
+      ],
+      "pullsRaw": "1.5M",
+      "pullsValue": 1500000
+    },
+    {
+      "name": "qwen2.5vl",
+      "tags": [
+        "vision",
+        "3b",
+        "7b",
+        "32b",
+        "72b"
+      ],
+      "pullsRaw": "1.5M",
+      "pullsValue": 1500000
+    },
+    {
+      "name": "gemma3n",
+      "tags": [
+        "e2b",
+        "e4b"
+      ],
+      "pullsRaw": "1.4M",
+      "pullsValue": 1400000
+    },
+    {
+      "name": "llama4",
+      "tags": [
+        "vision",
+        "tools",
+        "16x17b",
+        "128x17b"
+      ],
+      "pullsRaw": "1.4M",
+      "pullsValue": 1400000
+    },
+    {
+      "name": "qwen3-embedding",
+      "tags": [
+        "embedding",
+        "0.6b",
+        "4b",
+        "8b"
+      ],
+      "pullsRaw": "1.3M",
+      "pullsValue": 1300000
+    },
+    {
+      "name": "phi4-reasoning",
+      "tags": [
+        "14b"
+      ],
+      "pullsRaw": "1.3M",
+      "pullsValue": 1300000
+    },
+    {
+      "name": "dolphin-llama3",
+      "tags": [
+        "8b",
+        "70b"
+      ],
+      "pullsRaw": "1.3M",
+      "pullsValue": 1300000
+    },
+    {
+      "name": "dolphin-phi",
+      "tags": [
+        "2.7b"
+      ],
+      "pullsRaw": "1.3M",
+      "pullsValue": 1300000
+    },
+    {
+      "name": "dolphin-mixtral",
+      "tags": [
+        "8x7b",
+        "8x22b"
+      ],
+      "pullsRaw": "1.3M",
+      "pullsValue": 1300000
+    },
+    {
+      "name": "magistral",
+      "tags": [
+        "tools",
+        "thinking",
+        "24b"
+      ],
+      "pullsRaw": "1.2M",
+      "pullsValue": 1200000
+    },
+    {
+      "name": "deepscaler",
+      "tags": [
+        "1.5b"
+      ],
+      "pullsRaw": "1.2M",
+      "pullsValue": 1200000
+    },
+    {
+      "name": "smollm",
+      "tags": [
+        "135m",
+        "360m",
+        "1.7b"
+      ],
+      "pullsRaw": "1.2M",
+      "pullsValue": 1200000
+    },
+    {
+      "name": "phi",
+      "tags": [
+        "2.7b"
+      ],
+      "pullsRaw": "1.2M",
+      "pullsValue": 1200000
+    },
+    {
+      "name": "lfm2.5-thinking",
+      "tags": [
+        "tools",
+        "1.2b"
+      ],
+      "pullsRaw": "995.8K",
+      "pullsValue": 995800
+    },
+    {
+      "name": "lfm2",
+      "tags": [
+        "tools",
+        "24b"
+      ],
+      "pullsRaw": "970.4K",
+      "pullsValue": 970400
+    },
+    {
+      "name": "phi4-mini",
+      "tags": [
+        "tools",
+        "3.8b"
+      ],
+      "pullsRaw": "970.3K",
+      "pullsValue": 970300
+    },
+    {
+      "name": "dolphin-mistral",
+      "tags": [
+        "7b"
+      ],
+      "pullsRaw": "962.1K",
+      "pullsValue": 962100
+    },
+    {
+      "name": "codestral",
+      "tags": [
+        "22b"
+      ],
+      "pullsRaw": "957K",
+      "pullsValue": 957000
+    },
+    {
+      "name": "granite3.3",
+      "tags": [
+        "tools",
+        "2b",
+        "8b"
+      ],
+      "pullsRaw": "940.6K",
+      "pullsValue": 940600
+    },
+    {
+      "name": "command-r",
+      "tags": [
+        "tools",
+        "35b"
+      ],
+      "pullsRaw": "921.4K",
+      "pullsValue": 921400
+    },
+    {
+      "name": "openthinker",
+      "tags": [
+        "7b",
+        "32b"
+      ],
+      "pullsRaw": "904.6K",
+      "pullsValue": 904600
+    },
+    {
+      "name": "granite-code",
+      "tags": [
+        "3b",
+        "8b",
+        "20b",
+        "34b"
+      ],
+      "pullsRaw": "884.9K",
+      "pullsValue": 884900
+    },
+    {
+      "name": "granite4",
+      "tags": [
+        "tools",
+        "350m",
+        "1b",
+        "3b"
+      ],
+      "pullsRaw": "880.9K",
+      "pullsValue": 880900
+    },
+    {
+      "name": "qwen3-coder-next",
+      "tags": [
+        "tools",
+        "cloud"
+      ],
+      "pullsRaw": "876.6K",
+      "pullsValue": 876600
+    },
+    {
+      "name": "devstral",
+      "tags": [
+        "tools",
+        "24b"
+      ],
+      "pullsRaw": "835.9K",
+      "pullsValue": 835900
+    },
+    {
+      "name": "hermes3",
+      "tags": [
+        "tools",
+        "3b",
+        "8b",
+        "70b",
+        "405b"
+      ],
+      "pullsRaw": "831.9K",
+      "pullsValue": 831900
+    },
+    {
+      "name": "granite3.2-vision",
+      "tags": [
+        "vision",
+        "tools",
+        "2b"
+      ],
+      "pullsRaw": "818.6K",
+      "pullsValue": 818600
+    },
+    {
+      "name": "wizardlm2",
+      "tags": [
+        "7b",
+        "8x22b"
+      ],
+      "pullsRaw": "806.8K",
+      "pullsValue": 806800
+    },
+    {
+      "name": "moondream",
+      "tags": [
+        "vision",
+        "1.8b"
+      ],
+      "pullsRaw": "786.2K",
+      "pullsValue": 786200
+    },
+    {
+      "name": "yi",
+      "tags": [
+        "6b",
+        "9b",
+        "34b"
+      ],
+      "pullsRaw": "776.9K",
+      "pullsValue": 776900
+    },
+    {
+      "name": "zephyr",
+      "tags": [
+        "7b",
+        "141b"
+      ],
+      "pullsRaw": "754.8K",
+      "pullsValue": 754800
+    },
+    {
+      "name": "mistral-large",
+      "tags": [
+        "tools",
+        "123b"
+      ],
+      "pullsRaw": "746.7K",
+      "pullsValue": 746700
+    },
+    {
+      "name": "wizard-vicuna-uncensored",
+      "tags": [
+        "7b",
+        "13b",
+        "30b"
+      ],
+      "pullsRaw": "739.4K",
+      "pullsValue": 739400
+    },
+    {
+      "name": "deepcoder",
+      "tags": [
+        "1.5b",
+        "14b"
+      ],
+      "pullsRaw": "735.7K",
+      "pullsValue": 735700
+    },
+    {
+      "name": "glm-4.7-flash",
+      "tags": [
+        "tools",
+        "thinking"
+      ],
+      "pullsRaw": "727.3K",
+      "pullsValue": 727300
+    },
+    {
+      "name": "translategemma",
+      "tags": [
+        "vision",
+        "4b",
+        "12b",
+        "27b"
+      ],
+      "pullsRaw": "697.6K",
+      "pullsValue": 697600
+    },
+    {
+      "name": "embeddinggemma",
+      "tags": [
+        "embedding",
+        "300m"
+      ],
+      "pullsRaw": "697.5K",
+      "pullsValue": 697500
+    },
+    {
+      "name": "starcoder",
+      "tags": [
+        "1b",
+        "3b",
+        "7b",
+        "15b"
+      ],
+      "pullsRaw": "689.8K",
+      "pullsValue": 689800
+    },
+    {
+      "name": "nous-hermes",
+      "tags": [
+        "7b",
+        "13b"
+      ],
+      "pullsRaw": "681.2K",
+      "pullsValue": 681200
+    },
+    {
+      "name": "deepseek-llm",
+      "tags": [
+        "7b",
+        "67b"
+      ],
+      "pullsRaw": "675.8K",
+      "pullsValue": 675800
+    },
+    {
+      "name": "phi3.5",
+      "tags": [
+        "3.8b"
+      ],
+      "pullsRaw": "674.6K",
+      "pullsValue": 674600
+    },
+    {
+      "name": "deepseek-v2",
+      "tags": [
+        "16b",
+        "236b"
+      ],
+      "pullsRaw": "674.2K",
+      "pullsValue": 674200
+    },
+    {
+      "name": "falcon",
+      "tags": [
+        "7b",
+        "40b",
+        "180b"
+      ],
+      "pullsRaw": "670.7K",
+      "pullsValue": 670700
+    },
+    {
+      "name": "openchat",
+      "tags": [
+        "7b"
+      ],
+      "pullsRaw": "669.9K",
+      "pullsValue": 669900
+    },
+    {
+      "name": "ministral-3",
+      "tags": [
+        "vision",
+        "tools",
+        "3b",
+        "8b",
+        "14b",
+        "cloud"
+      ],
+      "pullsRaw": "669.8K",
+      "pullsValue": 669800
+    },
+    {
+      "name": "glm4",
+      "tags": [
+        "9b"
+      ],
+      "pullsRaw": "664.9K",
+      "pullsValue": 664900
+    },
+    {
+      "name": "devstral-small-2",
+      "tags": [
+        "vision",
+        "tools",
+        "24b",
+        "cloud"
+      ],
+      "pullsRaw": "664.8K",
+      "pullsValue": 664800
+    },
+    {
+      "name": "vicuna",
+      "tags": [
+        "7b",
+        "13b",
+        "33b"
+      ],
+      "pullsRaw": "663.7K",
+      "pullsValue": 663700
+    },
+    {
+      "name": "mistral-small3.1",
+      "tags": [
+        "vision",
+        "tools",
+        "24b"
+      ],
+      "pullsRaw": "651.8K",
+      "pullsValue": 651800
+    },
+    {
+      "name": "codeqwen",
+      "tags": [
+        "7b"
+      ],
+      "pullsRaw": "643.5K",
+      "pullsValue": 643500
+    },
+    {
+      "name": "openhermes",
+      "tags": [],
+      "pullsRaw": "643.4K",
+      "pullsValue": 643400
+    }
+  ]
+}

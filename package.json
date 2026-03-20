@@ -1,0 +1,39 @@
+{
+  "name": "ollama-top-llm",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "typecheck": "tsc -b --pretty false",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "validate:models": "node scripts/validate-models.mjs data/models.json",
+    "validate:schema-structure": "node scripts/validate-schema-structure.mjs data/models.schema.json",
+    "verify:release": "npm run lint && npm run typecheck && npm run test && npm run test:e2e && npm run validate:schema-structure && npm run validate:models && npm run build"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@eslint/js": "^9.36.0",
+    "@types/node": "^24.5.2",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "ajv": "^8.18.0",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.22",
+    "globals": "^16.4.0",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.45.0",
+    "vite": "^7.1.7",
+    "vitest": "^3.2.4"
+  }
+}

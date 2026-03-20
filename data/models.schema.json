@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/models.schema.json",
+  "title": "Top 100 LLM Models Dataset",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "generatedAt",
+    "source",
+    "models"
+  ],
+  "properties": {
+    "generatedAt": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "models": {
+      "type": "array",
+      "minItems": 100,
+      "maxItems": 100,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "tags",
+          "pullsRaw",
+          "pullsValue"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "pullsRaw": {
+            "type": "string"
+          },
+          "pullsValue": {
+            "type": "number",
+            "minimum": 0
+          }
+        }
+      }
+    }
+  }
+}
